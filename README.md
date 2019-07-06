@@ -13,6 +13,6 @@
 - com.welcome.welcome.java contains the main method.
 
 # Configuration
-- Gmail doesn't directly allows yoiu to connect with an unlicensed less secure applications.
+- Gmail doesn't directly allows you to connect with an unlicensed less secure application.
 - Go to "https://myaccount.google.com/lesssecureapps?pli=1"
 - Enable this to access with your ID and Password from a less secured application.
