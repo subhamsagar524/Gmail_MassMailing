@@ -9,7 +9,7 @@
 - Follow the commands to use the program.
 
 # Source Code
-- The source code is available inside the con package.
+- The source code is available inside the com package.
 - com.welcome.welcome.java contains the main method.
 
 # Configuration
