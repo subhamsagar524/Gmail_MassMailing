@@ -51,10 +51,8 @@ public class Send
 			Transport.send(msg);
 			//System.out.println("Message delivered successfully , Check your mail ...........");
 			status = true;
-			//response.sendRedirect("mail.jsp?msg=mail delivered");
 		} catch (MessagingException e) {
-			// TODO: handle exception
-			//throw new RuntimeException(e);
+		
 			e.getMessage();
 		}
    
