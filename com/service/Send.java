@@ -18,7 +18,7 @@ public class Send
 	public static boolean sendMail(String mails, String subject, String message, String em, String psw) 
 	{
 		String to=mails;
-		
+		status = false;
 		String from=em; // give ur mailid
 		String password=psw; // give ur passsword 
 		
