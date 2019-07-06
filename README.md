@@ -11,3 +11,8 @@
 # Source Code
 - The source code is available inside the con package.
 - com.welcome.welcome.java contains the main method.
+
+# Configuration
+- Gmail doesn't directly allows yoiu to connect with an unlicensed less secure applications.
+- Go to "https://myaccount.google.com/lesssecureapps?pli=1"
+- Enable this to access with your ID and Password from a less secured application.
