@@ -13,7 +13,7 @@ public class GetMail
 		do 
 		{
 			System.out.println("Enter the Subject for your mail : ");
-			subject = sc.next();
+			subject = sc.nextLine();
 			if(subject == null)
 				System.out.println("Subject Cannot be null.");
 		}while (subject == null);
@@ -30,7 +30,7 @@ public class GetMail
 		do 
 		{
 			System.out.println("Enter the Message for your mail : ");
-			message = sc.next();
+			message = sc.nextLine();
 			if(message == null)
 				System.out.println("Message Cannot be null.");
 		}while (message == null);
